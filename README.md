@@ -37,5 +37,5 @@ Projeyi kendi bilgisayarında çalıştırmak için aşağıdaki adımları sır
 
 **1. Repoyu Klonlayın**
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/Akciger_Teshis_Projesi.git](https://github.com/KULLANICI_ADIN/Akciger_Teshis_Projesi.git)
+git clone [https://github.com/KULLANICI_ADIN/Akciger_Teshis_Projesi.git](https://github.com/ozdizlekli/Akciger_Teshis_Projesi.git)
 cd Akciger_Teshis_Projesi
