@@ -1,8 +1,8 @@
-# 🫁 Akciğer Hastalıkları Teşhis Sistemi (Chest X-Ray Pathology Detection)
+#  Akciğer Hastalıkları Teşhis Sistemi (Chest X-Ray Pathology Detection)
 
 Bu proje, göğüs röntgeni (X-ray) görüntülerini analiz ederek **14 farklı akciğer patolojisini** aynı anda tespit edebilen derin öğrenme tabanlı bir teşhis sistemidir. Model, tıp uzmanlarına ve klinik süreçlere destek olmak amacıyla geliştirilmiş olup, sonuçları kullanıcı dostu bir web arayüzü üzerinden sunmaktadır.
 
-## 🚀 Proje Özellikleri
+##  Proje Özellikleri
 
 * **Çoklu Etiketli Sınıflandırma (Multi-label Classification):** Bir röntgen görüntüsünde birden fazla hastalığın aynı anda bulunabilme ihtimali göz önüne alınarak geliştirilmiştir.
 * **14 Farklı Patoloji Tespiti:** Atelektazi, Kardiyomegali, Efizyon, İnfiltrasyon, Kitle, Nodül, Pnömoni, Pnömotoraks, Konsolidasyon, Ödem, Amfizem, Fibrozis, Plevral Kalınlaşma ve Fıtık tespiti.
@@ -11,7 +11,7 @@ Bu proje, göğüs röntgeni (X-ray) görüntülerini analiz ederek **14 farklı
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 * **Geliştirme Dili:** Python
 * **Derin Öğrenme / Makine Öğrenmesi:** TensorFlow, Keras
@@ -21,7 +21,7 @@ Bu proje, göğüs röntgeni (X-ray) görüntülerini analiz ederek **14 farklı
 
 ---
 
-## 📊 Model Performansı ve Eğitim Süreci
+##  Model Performansı ve Eğitim Süreci
 
 Modelin eğitim sürecindeki başarısı (Accuracy) ve kayıp (Loss) değerleri `training_plot.png` üzerinde görselleştirilmiştir. Aşırı öğrenmeyi (overfitting) engellemek için veri artırma (data augmentation) ve erken durdurma (early stopping) gibi teknikler kullanılmıştır.
 
@@ -31,7 +31,7 @@ Modelin eğitim sürecindeki başarısı (Accuracy) ve kayıp (Loss) değerleri 
 
 ---
 
-## 💻 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarında çalıştırmak için aşağıdaki adımları sırasıyla izleyebilirsin.
 
